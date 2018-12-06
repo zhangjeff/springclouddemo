@@ -13,5 +13,6 @@
          <module>eurekaserver</module>
          <module>eurekaserver2</module>
          <module>eurekaclient</module>
+		 <module>ribbonconsumer</module>
       </modules>
 </project>
